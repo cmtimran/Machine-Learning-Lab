@@ -1,4 +1,4 @@
-# Machine Learning Lab Assignments
+# Machine Learning Basics Lab
 
 This repository contains lab assignments from the Machine Learning course at the University of Debrecen.
 
@@ -36,4 +36,4 @@ Navigate to the specific lab folder and follow the instructions in the respectiv
 
 ## License
 
-This repository is for educational purposes.
+This repository is for educational purposes. 
